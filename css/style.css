@@ -2,4 +2,46 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
   font-weight: 400;
+ 
+   
 }
+img{
+    width: 100%;
+    height: auto;
+}
+/* header */
+.header {
+  border-bottom: solid 1px #000000;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  text-align: center;
+}
+
+.header__inner{
+
+}
+.header__logo{
+    padding: 12px;
+    
+}
+.header__nav{
+    margin-top: 10px;
+  
+
+}
+.header__list{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+.header__item{
+
+}
+.header_link{
+    color: #ffff;
+
+}
+/* fv */
+
