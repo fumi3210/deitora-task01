@@ -8,6 +8,11 @@ body {
 img{
  
 }
+/* 共通 */
+.inner{
+    padding: 0 40px ;
+
+}
 /* header */
 .header {
   border-bottom: solid 1px #000000;
@@ -44,4 +49,57 @@ img{
 
 }
 /* fv */
+/* About */
+.About{
+    padding: 40px 0;
+    background-color:#f1eee4 ;
 
+}
+.About_inner{
+
+}
+.section_heading{
+   
+    text-align: center;
+
+}
+.section-heading_main{
+     display: block;
+     font-size: 40px;
+    
+
+}
+.section-heading_sub{
+    font-size: 12px;
+    display: block;
+
+}
+.About_text{
+
+}
+.About_body{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+.About_img{
+    margin-top: 40px;
+
+}
+.About_contens{
+    margin-top: 20px;
+
+}
+.About_contens-title{
+    font-size: 14px;
+    line-height: 2;
+
+}
+.About_contens-text {
+    margin-top: 16px;
+       line-height: 2;
+   
+
+
+}
