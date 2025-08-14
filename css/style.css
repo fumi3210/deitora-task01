@@ -105,6 +105,8 @@ img{
 }
 /* Menu */
 .Menu{
+    padding:  40px 0;
+    background-color: #f1eee4;
 
 }
 .Menu_nav{
@@ -117,14 +119,21 @@ img{
 
 }
 .Menu_item-contens{
+    text-align: center;
 
 }
 .Menu_item-title{
 
 }
+.Menu_img{
+    margin-top: 40px;
+
+}
 .Menu_item-sub{
+     color:#f1eee4 ;
 
 }
 .Menu_item-text{
-    
+    color:#f1eee4 ;
+
 }
