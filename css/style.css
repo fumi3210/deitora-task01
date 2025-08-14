@@ -6,8 +6,7 @@ body {
    
 }
 img{
-    width: 100%;
-    height: auto;
+ 
 }
 /* header */
 .header {
@@ -24,6 +23,7 @@ img{
 }
 .header__logo{
     padding: 12px;
+    
     
 }
 .header__nav{
