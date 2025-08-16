@@ -143,3 +143,36 @@ img{
      font-size: 14px;
    
 }
+/* shop */
+.shop{
+    padding: 80px 0;
+    background-image:url(../img/sp/bg-shop.png) ;
+    background-position: center center;
+    background-size: cover;
+
+}
+.shop_inner{
+    padding: 0 20px;
+
+}
+.shop_heading{
+    text-align: center;
+    color: #ffff;
+}
+.shop_contens{
+    text-align: center;
+    color: #ffff;
+
+}
+.shop_text{
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 2;
+
+}
+.form{
+
+}
+.form_input{
+    
+}
