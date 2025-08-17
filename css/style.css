@@ -184,8 +184,14 @@ img{
 }
 
 .form_submit{
+    display: block;
+    margin:10px  auto 0;
+    width: 120px;
+    padding: 12px;
          border: none;
     border-radius: 4px;
     background-color:rgba(255,2555,255,0.7) ;
+    background-color: #a98c5f;
+    color: #ffff;
 
 }
